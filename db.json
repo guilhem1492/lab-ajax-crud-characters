@@ -1,0 +1,39 @@
+{
+  "characters": [
+    {
+      "name": "Guilhem",
+      "occupation": "web developer",
+      "weapon": "laptop",
+      "cartoon": false,
+      "id": 1
+    },
+    {
+      "name": "Florian",
+      "occupation": "teacher",
+      "weapon": "mind, vocals",
+      "cartoon": false,
+      "id": 2
+    },
+    {
+      "name": "Haroun",
+      "occupation": "teacher assistant",
+      "weapon": "mind, vocals",
+      "cartoon": false,
+      "id": 3
+    },
+    {
+      "name": "Lionel Messi",
+      "occupation": "World Champion",
+      "weapon": "feet",
+      "cartoon": false,
+      "id": 4
+    },
+    {
+      "name": "Denji",
+      "occupation": "manga protagonist",
+      "weapon": "chainsaw",
+      "cartoon": true,
+      "id": 5
+    }
+  ]
+}
